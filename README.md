@@ -5,9 +5,9 @@ look at my portfolio <a href="https://mustafaozer.netlify.app/#/" target ="_blan
 <img src="https://github.com/MustafaOzer20/Portfolio-with-flutter/blob/master/screenshots/main_web.PNG" width="800" height="400">
 <img src="https://github.com/MustafaOzer20/Portfolio-with-flutter/blob/master/screenshots/tools_web.PNG" width="800" height="400">
 <img src="https://github.com/MustafaOzer20/Portfolio-with-flutter/blob/master/screenshots/contact_web.PNG" width="800" height="400">
-<img src="https://github.com/MustafaOzer20/Portfolio-with-flutter/blob/master/screenshots/main_phone.PNG" width="300" height="400">
-<img src="https://github.com/MustafaOzer20/Portfolio-with-flutter/blob/master/screenshots/tools_phone.PNG" width="300" height="400">
-<img src="https://github.com/MustafaOzer20/Portfolio-with-flutter/blob/master/screenshots/contact_phone.PNG" width="300" height="400">
+<img src="https://github.com/MustafaOzer20/Portfolio-with-flutter/blob/master/screenshots/main_phone.PNG" width="250" height="400">
+<img src="https://github.com/MustafaOzer20/Portfolio-with-flutter/blob/master/screenshots/tools_phone.PNG" width="250" height="400">
+<img src="https://github.com/MustafaOzer20/Portfolio-with-flutter/blob/master/screenshots/contact_phone.PNG" width="250" height="400">
 
 ## Getting Started
 
