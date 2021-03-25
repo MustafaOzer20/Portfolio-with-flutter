@@ -1,6 +1,6 @@
 # portfolio
 
-look at my portfolio <a href"https://mustafaozer.netlify.app/#/">click</a>
+look at my portfolio <a href"https://mustafaozer.netlify.app/#/"><span>click</span></a>
 
 ## Getting Started
 
