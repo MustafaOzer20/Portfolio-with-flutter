@@ -5,8 +5,8 @@ import 'package:portfolio/widgets/mobile_widgets/custom_boxshadow.dart';
 class MobilePromotion extends StatelessWidget {
   String promotion = "Django, Tensorflow, Keras, MySQL, SQLite, Bootstrap, Flutter, Javascript, C# gibi bir çok alanda ve araçla, "
       "belirli bir platforma veya programlama diline bağlı kalmadan ihtiyaçlar doğrultusunda uygun bir teknoloji tercih ederek yazılım geliştiriyorum. "
-      "Uzmanlık alanım Python ve Flutter"
-      "Şuanda ilgilendiğim alanlar: Yapay Zeka, Veri Bilimi ve Mobil Uygulama";
+      "Uzmanlık alanım Python ve Flutter."
+      " Şuanda ilgilendiğim alanlar: Yapay Zeka, Veri Bilimi ve Mobil Uygulama";
   @override
   Widget build(BuildContext context) {
     return Container(
