@@ -2,7 +2,7 @@
 
 look at my portfolio <a href="https://mustafaozer.netlify.app/#/" target ="_blank">click</a>
 
-<h3>Screenshot</h3>
+<h3>Screenshots</h3>
 <img src="https://github.com/MustafaOzer20/Portfolio-with-flutter/blob/master/screenshots/main_web.PNG" width="800" height="400">
 <img src="https://github.com/MustafaOzer20/Portfolio-with-flutter/blob/master/screenshots/tools_web.PNG" width="800" height="400">
 <img src="https://github.com/MustafaOzer20/Portfolio-with-flutter/blob/master/screenshots/contact_web.PNG" width="800" height="400">
