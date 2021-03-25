@@ -64,34 +64,36 @@ class _WebScreenState extends State<WebScreen> {
             )
         ),
         child: Padding(
-          padding: EdgeInsets.symmetric(vertical: 40.0),
-          child: Column(
-            crossAxisAlignment: CrossAxisAlignment.stretch,
-            children: <Widget>[
-              Row(
-                mainAxisAlignment: MainAxisAlignment.center,
-                children: _buildPageIndicator(),
-              ),
-              Container(
-                margin: EdgeInsets.symmetric(horizontal: 50),
-                height: 577,
-                child: PageView(
-                  physics: ClampingScrollPhysics(),
-                  controller: _pageController,
-                  onPageChanged: (int page) {
-                    setState(() {
-                      _currentPage = page;
-                    });
-                  },
-                  children: <Widget>[
-                    Promotion(),
-                    Tools(),
-                    Contacts(),
-                  ],
+          padding: EdgeInsets.only(top: 40.0),
+          child: SingleChildScrollView(
+            child: Column(
+              crossAxisAlignment: CrossAxisAlignment.stretch,
+              children: <Widget>[
+                Row(
+                  mainAxisAlignment: MainAxisAlignment.center,
+                  children: _buildPageIndicator(),
                 ),
-              ),
+                Container(
+                  margin: EdgeInsets.symmetric(horizontal: 50),
+                  height: 577,
+                  child: PageView(
+                    physics: ClampingScrollPhysics(),
+                    controller: _pageController,
+                    onPageChanged: (int page) {
+                      setState(() {
+                        _currentPage = page;
+                      });
+                    },
+                    children: <Widget>[
+                      Promotion(),
+                      Tools(),
+                      Contacts(),
+                    ],
+                  ),
+                ),
 
-            ],
+              ],
+            ),
           ),
         ),
       ),);
