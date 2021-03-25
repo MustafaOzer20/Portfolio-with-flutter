@@ -2,12 +2,12 @@
 
 look at my portfolio <a href="https://mustafaozer.netlify.app/#/" target ="_blank">click</a>
 
-<img src="https://github.com/MustafaOzer20/Portfolio-with-flutter/blob/master/screenshots/main_web.png" width="600" height="400">
-<img src="https://github.com/MustafaOzer20/Portfolio-with-flutter/blob/master/screenshots/tools_web.png" width="600" height="400">
-<img src="https://github.com/MustafaOzer20/Portfolio-with-flutter/blob/master/screenshots/contact_web.png" width="600" height="400">
-<img src="https://github.com/MustafaOzer20/Portfolio-with-flutter/blob/master/screenshots/main_phone.png" width="200" height="400">
-<img src="https://github.com/MustafaOzer20/Portfolio-with-flutter/blob/master/screenshots/tools_phone.png" width="200" height="400">
-<img src="https://github.com/MustafaOzer20/Portfolio-with-flutter/blob/master/screenshots/contact_phone.png" width="200" height="400">
+<img src="https://github.com/MustafaOzer20/Portfolio-with-flutter/blob/master/screenshots/main_web.PNG" width="600" height="400">
+<img src="https://github.com/MustafaOzer20/Portfolio-with-flutter/blob/master/screenshots/tools_web.PNG" width="600" height="400">
+<img src="https://github.com/MustafaOzer20/Portfolio-with-flutter/blob/master/screenshots/contact_web.PNG" width="600" height="400">
+<img src="https://github.com/MustafaOzer20/Portfolio-with-flutter/blob/master/screenshots/main_phone.PNG" width="200" height="400">
+<img src="https://github.com/MustafaOzer20/Portfolio-with-flutter/blob/master/screenshots/tools_phone.PNG" width="200" height="400">
+<img src="https://github.com/MustafaOzer20/Portfolio-with-flutter/blob/master/screenshots/contact_phone.PNG" width="200" height="400">
 
 ## Getting Started
 
