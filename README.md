@@ -1,6 +1,6 @@
 # portfolio
 
-look at my portfolio <a href="https://mustafaozer.netlify.app/#/" target ="_blank">click</a>
+look at my portfolio <a href="http://mustafaozer.byethost14.com/#/" target ="_blank">click</a>
 
 <h3>Screenshots</h3>
 <img src="https://github.com/MustafaOzer20/Portfolio-with-flutter/blob/master/screenshots/main_web.PNG" width="800" height="400">
