@@ -7,10 +7,10 @@ look at my portfolio <a href="http://mustafaozer.byethost14.com/#/" target ="_bl
 <img src="https://github.com/MustafaOzer20/Portfolio-with-flutter/blob/master/screenshots/web/projects_web.PNG" width="800" height="400">
 <img src="https://github.com/MustafaOzer20/Portfolio-with-flutter/blob/master/screenshots/web/tools_web.PNG" width="800" height="400">
 <img src="https://github.com/MustafaOzer20/Portfolio-with-flutter/blob/master/screenshots/web/contact_web.PNG" width="800" height="400">
-<img src="https://github.com/MustafaOzer20/Portfolio-with-flutter/blob/master/screenshots/mobile/main_phone.PNG" width="250" height="400">
-<img src="https://github.com/MustafaOzer20/Portfolio-with-flutter/blob/master/screenshots/mobile/projects_phone.PNG" width="250" height="400">
-<img src="https://github.com/MustafaOzer20/Portfolio-with-flutter/blob/master/screenshots/mobile/tools_phone.PNG" width="250" height="400">
-<img src="https://github.com/MustafaOzer20/Portfolio-with-flutter/blob/master/screenshots/mobile/contact_phone.PNG" width="250" height="400">
+<img src="https://github.com/MustafaOzer20/Portfolio-with-flutter/blob/master/screenshots/mobile/main_mobile.PNG" width="250" height="400">
+<img src="https://github.com/MustafaOzer20/Portfolio-with-flutter/blob/master/screenshots/mobile/projects_mobile.PNG" width="250" height="400">
+<img src="https://github.com/MustafaOzer20/Portfolio-with-flutter/blob/master/screenshots/mobile/tools_mobile.PNG" width="250" height="400">
+<img src="https://github.com/MustafaOzer20/Portfolio-with-flutter/blob/master/screenshots/mobile/contact_mobile.PNG" width="250" height="400">
 
 ## Getting Started
 
