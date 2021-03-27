@@ -3,12 +3,14 @@
 look at my portfolio <a href="http://mustafaozer.byethost14.com/#/" target ="_blank">click</a>
 
 <h3>Screenshots</h3>
-<img src="https://github.com/MustafaOzer20/Portfolio-with-flutter/blob/master/screenshots/main_web.PNG" width="800" height="400">
-<img src="https://github.com/MustafaOzer20/Portfolio-with-flutter/blob/master/screenshots/tools_web.PNG" width="800" height="400">
-<img src="https://github.com/MustafaOzer20/Portfolio-with-flutter/blob/master/screenshots/contact_web.PNG" width="800" height="400">
-<img src="https://github.com/MustafaOzer20/Portfolio-with-flutter/blob/master/screenshots/main_phone.PNG" width="250" height="400">
-<img src="https://github.com/MustafaOzer20/Portfolio-with-flutter/blob/master/screenshots/tools_phone.PNG" width="250" height="400">
-<img src="https://github.com/MustafaOzer20/Portfolio-with-flutter/blob/master/screenshots/contact_phone.PNG" width="250" height="400">
+<img src="https://github.com/MustafaOzer20/Portfolio-with-flutter/blob/master/screenshots/web/main_web.PNG" width="800" height="400">
+<img src="https://github.com/MustafaOzer20/Portfolio-with-flutter/blob/master/screenshots/web/projects_web.PNG" width="800" height="400">
+<img src="https://github.com/MustafaOzer20/Portfolio-with-flutter/blob/master/screenshots/web/tools_web.PNG" width="800" height="400">
+<img src="https://github.com/MustafaOzer20/Portfolio-with-flutter/blob/master/screenshots/web/contact_web.PNG" width="800" height="400">
+<img src="https://github.com/MustafaOzer20/Portfolio-with-flutter/blob/master/screenshots/mobile/main_phone.PNG" width="250" height="400">
+<img src="https://github.com/MustafaOzer20/Portfolio-with-flutter/blob/master/screenshots/mobile/projects_phone.PNG" width="250" height="400">
+<img src="https://github.com/MustafaOzer20/Portfolio-with-flutter/blob/master/screenshots/mobile/tools_phone.PNG" width="250" height="400">
+<img src="https://github.com/MustafaOzer20/Portfolio-with-flutter/blob/master/screenshots/mobile/contact_phone.PNG" width="250" height="400">
 
 ## Getting Started
 
