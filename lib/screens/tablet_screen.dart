@@ -1,11 +1,12 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:google_fonts/google_fonts.dart';
+
 import 'package:portfolio/widgets/tablet_widgets/tablet_contact.dart';
+
 import 'package:portfolio/widgets/tablet_widgets/tablet_promotion.dart';
 import 'package:portfolio/widgets/tablet_widgets/tablet_tools.dart';
-import '../widgets/contacts.dart';
-import 'package:portfolio/widgets/tools_images.dart';
+import '../widgets/projects.dart';
+
 
 class TabletScreen extends StatefulWidget {
   @override
@@ -13,13 +14,13 @@ class TabletScreen extends StatefulWidget {
 }
 
 class _TabletScreenState extends State<TabletScreen> {
-  final int _numPages = 3;
+  final int _numPages = 4;
   final PageController _pageController = PageController(initialPage: 0);
   int _currentPage = 0;
 
 
 
-  List<String> pages = ["Ozer", "Tools", "Contact"];
+  List<String> pages = ["Ozer", "Projects", "Tools", "Contact"];
 
 
   List<Widget> _buildPageIndicator() {
@@ -87,6 +88,7 @@ class _TabletScreenState extends State<TabletScreen> {
                     },
                     children: <Widget>[
                       TabletPromotion(),
+                      Projects(vertical: 20,horizontal: 10,),
                       TabletTools(),
                       TabletContact()
                     ],

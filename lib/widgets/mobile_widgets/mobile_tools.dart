@@ -9,16 +9,6 @@ class MobileTools extends StatelessWidget {
   Widget build(BuildContext context) {
     return Container(
       padding: EdgeInsets.symmetric(horizontal: 40,vertical: 40),
-      decoration: BoxDecoration(
-        gradient: LinearGradient(
-          begin: Alignment.topLeft,
-          end: Alignment.bottomRight,
-          colors: [
-            Color(0xFF9933ff),
-            Color(0xFF6600cc),
-          ], //[Color(0xFFFFC300),Color(0xFFFF9A3F)]
-        ),
-      ),
       child: Container(
         decoration: BoxDecoration(
             boxShadow: [CustomBoxShadow(

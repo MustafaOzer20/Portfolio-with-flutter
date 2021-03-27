@@ -35,6 +35,7 @@ class TabletContact extends StatelessWidget {
                       children: [
                         Contact(imageUrl: "assets/images/contact/github.png",url: "https://github.com/MustafaOzer20",),
                         Contact(imageUrl: "assets/images/contact/linkedin.png",url: "https://www.linkedin.com/in/mustafa-%C3%B6zer-74b2b0200/",),
+                        Contact(imageUrl: "assets/images/contact/kaggle.png",url: "https://www.kaggle.com/mustafaozer",),
                         Contact(imageUrl: "assets/images/contact/twitter.png",url: "https://twitter.com/infraredstt",size: 35,),
                         Contact(imageUrl: "assets/images/contact/instagram.png",url: "https://instagram.com/ozerr.st",size: 70,horizontalPadd: 0,),
                       ],

@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:google_fonts/google_fonts.dart';
+import '../widgets/projects.dart';
 import '../widgets/web_widgets/contact_screen.dart';
 import '../widgets/web_widgets/promotion.dart';
 import '../widgets/web_widgets/tools.dart';
@@ -12,13 +13,13 @@ class WebScreen extends StatefulWidget {
 
 class _WebScreenState extends State<WebScreen> {
 
-  final int _numPages = 3;
+  final int _numPages = 4;
   final PageController _pageController = PageController(initialPage: 0);
   int _currentPage = 0;
 
 
 
-  List<String> pages = ["Ozer", "Tools", "Contact"];
+  List<String> pages = ["Ozer", "Projects", "Tools", "Contact"];
 
 
   List<Widget> _buildPageIndicator() {
@@ -86,6 +87,7 @@ class _WebScreenState extends State<WebScreen> {
                     },
                     children: <Widget>[
                       Promotion(),
+                      Projects(),
                       Tools(),
                       Contacts(),
                     ],
